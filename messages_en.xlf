@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="other">
+    <header/>
+    <body>
+      <trans-unit id="1" xml:space="preserve">
+        <source>Example message</source>
+        <target>Example message</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
