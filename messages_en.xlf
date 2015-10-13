@@ -11,6 +11,10 @@
         <source>The monkey ate a banana</source>
         <target>The monkey ate a banana</target>
       </trans-unit>
+      <trans-unit id="4" xml:space="preserve">
+        <source>The elephant ate a coconut</source>
+        <target>The elephant ate a coconut</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
