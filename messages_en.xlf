@@ -4,8 +4,8 @@
     <header/>
     <body>
       <trans-unit id="1" xml:space="preserve">
-        <source>Example message</source>
-        <target>Example message</target>
+        <source>Example foo</source>
+        <target>Example foo</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source>The monkey ate a banana</source>
