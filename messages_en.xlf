@@ -7,6 +7,10 @@
         <source>Example message</source>
         <target>Example message</target>
       </trans-unit>
+      <trans-unit id="2" xml:space="preserve">
+        <source>The monkey ate a banana</source>
+        <target>The monkey ate a banana</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
