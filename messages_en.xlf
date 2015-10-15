@@ -23,6 +23,14 @@
         <source>The lion ate a monkey</source>
         <target>The lion ate a monkey</target>
       </trans-unit>
+      <trans-unit id="7" xml:space="preserve">
+        <source>The lion ate a monkey</source>
+        <target>The lion ate a monkey</target>
+      </trans-unit>
+      <trans-unit id="8" xml:space="preserve">
+        <source>The lion ate a monkey. The elephant ate a apple.</source>
+        <target>The lion ate a monkey. The elephant ate a apple.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
