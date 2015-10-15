@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[toby-test-api.messages_enxlf]
+source_file = messages_en.xlf
+source_lang = en
+type = XLIFF
+file_filter = <lang><lang>.xlf
