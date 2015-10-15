@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file datatype="plaintext" original="other" source-language="en" target-language="es">
+    <header/>
+    <body>
+      <trans-unit id="3" xml:space="preserve">
+        <source>Example foo</source>
+        <target>es foo</target>
+        
+      </trans-unit>
+      <trans-unit id="2" xml:space="preserve">
+        <source>The monkey ate a banana</source>
+        <target>the banana ate a monkey</target>
+        
+      </trans-unit>
+      <trans-unit id="4" xml:space="preserve">
+        <source>The elephant ate a apple</source>
+        <target>The apple ate an elephant</target>
+        
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve">
+        <source>The lion ate a monkey</source>
+        <target>The monkey ate a lion</target>
+        
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
