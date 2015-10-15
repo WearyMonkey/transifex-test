@@ -16,8 +16,8 @@
         <target>The elephant ate a apple</target>
       </trans-unit>
       <trans-unit id="5" xml:space="preserve">
-        <source>The lion ate a monkey</source>
-        <target>The lion ate a monkey</target>
+        <source>The tiger ate a monkey</source>
+        <target>The tiger ate a monkey</target>
       </trans-unit>
     </body>
   </file>
